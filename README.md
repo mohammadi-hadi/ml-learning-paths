@@ -2,9 +2,9 @@
 
 **The best machine learning courses on the internet, organized into five career paths — ML scientist, ML engineer, LLM engineer, data engineer, and data scientist — with an honest opinion about what to take, in what order, and what to skip.**
 
-![Last reviewed](https://img.shields.io/badge/last_reviewed-July_2026-1E3A5F)
-![Links checked weekly](https://img.shields.io/badge/links-checked_weekly-1E3A5F)
-[![License: MIT](https://img.shields.io/badge/license-MIT-1E3A5F)](LICENSE)
+![Last reviewed](https://mohammadi.cv/assets/badges/reviewed-2026-07.svg)
+![Links checked weekly](https://mohammadi.cv/assets/badges/links-weekly.svg)
+[![License: MIT](https://mohammadi.cv/assets/badges/license-mit.svg)](LICENSE)
 
 There are hundreds of ML course lists. Most of them are 200-item link dumps that answer the wrong question. The question is never *"what courses exist?"* — it is *"I want this job; what do I do next?"*
 
