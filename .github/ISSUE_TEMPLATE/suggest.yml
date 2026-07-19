@@ -1,0 +1,32 @@
+name: Suggest a course
+description: Propose a new course for the list
+title: "[course] "
+labels: ["suggestion"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: "Course name"
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: Official page, loads without login.
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Which path and stage it belongs to, which existing entry it should replace or complement (and why), cost model, and a stable link.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it belongs here
+      description: See CONTRIBUTING.md for the inclusion bar.
+    validations:
+      required: true
