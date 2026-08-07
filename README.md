@@ -5,6 +5,7 @@
 ![Last reviewed](https://mohammadi.cv/assets/badges/reviewed-2026-07.svg)
 ![Links checked weekly](https://mohammadi.cv/assets/badges/links-weekly.svg)
 [![License: MIT](https://mohammadi.cv/assets/badges/license-mit.svg)](LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21837432.svg)](https://doi.org/10.5281/zenodo.21837432)
 
 There are hundreds of ML course lists. Most of them are 200-item link dumps that answer the wrong question. The question is never *"what courses exist?"* — it is *"I want this job; what do I do next?"*
 
@@ -171,10 +172,12 @@ If this guide is useful in your work, please cite it (see [CITATION.cff](CITATIO
 
 ```bibtex
 @misc{mohammadi_ml_learning_paths,
-  author = {Mohammadi, Hadi},
-  title  = {ML Learning Paths},
-  year   = {2026},
-  url    = {https://github.com/mohammadi-hadi/ml-learning-paths}
+  author    = {Mohammadi, Hadi},
+  title     = {ML Learning Paths},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.21837432},
+  url       = {https://github.com/mohammadi-hadi/ml-learning-paths}
 }
 ```
 
