@@ -165,6 +165,19 @@ Hiring managers (I am sometimes one) generally read a CV in this order: what you
 
 Corrections and course suggestions are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md). The bar for adding a course is deliberately high: it must be the *best* option for a specific stage, not merely good.
 
+## Citation
+
+If this guide is useful in your work, please cite it (see [CITATION.cff](CITATION.cff)):
+
+```bibtex
+@misc{mohammadi_ml_learning_paths,
+  author = {Mohammadi, Hadi},
+  title  = {ML Learning Paths},
+  year   = {2026},
+  url    = {https://github.com/mohammadi-hadi/ml-learning-paths}
+}
+```
+
 ## License
 
 [MIT](LICENSE) — maintained by [Hadi Mohammadi](https://mohammadi.cv). Links are checked weekly by CI; content last reviewed July 2026.
