@@ -1,11 +1,16 @@
+<div align="center">
+
 # ML Learning Paths
 
-**The best machine learning courses on the internet, organized into five career paths — ML scientist, ML engineer, LLM engineer, data engineer, and data scientist — with an honest opinion about what to take, in what order, and what to skip.**
-
-![Last reviewed](https://mohammadi.cv/assets/badges/reviewed-2026-07.svg)
 ![Links checked weekly](https://mohammadi.cv/assets/badges/links-weekly.svg)
-[![License: MIT](https://mohammadi.cv/assets/badges/license-mit.svg)](LICENSE)
+[![Links](https://github.com/mohammadi-hadi/ml-learning-paths/actions/workflows/links.yml/badge.svg)](https://github.com/mohammadi-hadi/ml-learning-paths/actions/workflows/links.yml)
+![Last reviewed](https://mohammadi.cv/assets/badges/reviewed-2026-07.svg)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21837432.svg)](https://doi.org/10.5281/zenodo.21837432)
+[![License: MIT](https://mohammadi.cv/assets/badges/license-mit.svg)](LICENSE)
+
+*The best machine learning courses on the internet, organized into five career paths — ML scientist, ML engineer, LLM engineer, data engineer, and data scientist — with an honest opinion about what to take, in what order, and what to skip.*
+
+</div>
 
 There are hundreds of ML course lists. Most of them are 200-item link dumps that answer the wrong question. The question is never *"what courses exist?"* — it is *"I want this job; what do I do next?"*
 
